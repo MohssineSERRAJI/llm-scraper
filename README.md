@@ -2,6 +2,8 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-scraper?quickstart=1)
 
+Boost your web scraping efficiency! Try [BrightData](https://get.brightdata.com/afai7cfm7jbd) now and scrape smarter, not harder.
+
 Starter examples for scraping website using LLMs with Streamlit.
 
 ## Overview of the App
